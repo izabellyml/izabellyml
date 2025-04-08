@@ -2,6 +2,17 @@
 
 Web Developer Full-Stack | Front-End
 
+<!--picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=izabellyml&show_icons=true&theme=radical&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=izabellyml&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=izabellyml&show_icons=true" />
+</picture-->
 🔭 Atualmente trabalho como programadora Full-Stack em projetos com PHP.
 
 🚀 Tenho como objetivo evoluir como programadora Front-End especializada em ReactJS.
@@ -22,6 +33,7 @@ CSS3 | HTML5 | Styled Components | SASS | BEM
 - Finalizar projeto de MarketPlace em WordPress
 - Fazer a prova de certificação do GitHub Foundations
 
+##
 
 📫 Me encontre em outras redes: [LinkedIn](https://www.linkedin.com/in/izabellylabegalini/)
 
