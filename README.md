@@ -1,4 +1,4 @@
-## Olá, sou a Izabelly Labegalini 👋😄
+## Olá, sou a Izabelly Labegalini 🥰
 
 Web Developer Full-Stack | Front-End
 
