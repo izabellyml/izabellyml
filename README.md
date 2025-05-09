@@ -1,6 +1,6 @@
 ## Olá, sou a Izabelly Labegalini 🥰
 
-Web Developer Full-Stack | Front-End
+Front-End ReactJS | Full-Stack PHP
 
 <!--picture>
   <source
@@ -19,18 +19,17 @@ Web Developer Full-Stack | Front-End
 
 
 ⚙️ Tecnologias:
-PHP | JavaScript | MySQL | PHPUnit | Jest | WordPress | Drupal
+PHP | JavaScript | MySQL | PHPUnit | Jest | WordPress | Drupal | ReactJS | TypeScript
 
 🎨 Design & Estilo:
 CSS3 | HTML5 | Styled Components | SASS | BEM 
 
 ✍🏻 Em aprendizado:
-- Curso de GitHub 4 Women 
+- Curso de GitHub 4 Women
 - ReactJS pela RocketSeat
 - TypeScript para Front-end
 
 💡 Próximos passos:
-- Finalizar projeto de MarketPlace em WordPress
 - Fazer a prova de certificação do GitHub Foundations
 
 ##
