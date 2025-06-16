@@ -15,7 +15,7 @@ Front-End ReactJS | Full-Stack PHP
 </picture-->
 🔭 Atualmente trabalho como programadora Full-Stack em projetos com PHP.
 
-🚀 Tenho como objetivo evoluir como programadora Front-End especializada em ReactJS.
+🚀 Tenho como objetivo focar em Front-End especializada em ReactJS.
 
 
 ⚙️ Tecnologias:
@@ -25,12 +25,9 @@ PHP | JavaScript | MySQL | PHPUnit | Jest | WordPress | Drupal | ReactJS | TypeS
 CSS3 | HTML5 | Styled Components | SASS | BEM 
 
 ✍🏻 Em aprendizado:
-- Curso de GitHub 4 Women
 - ReactJS pela RocketSeat
 - TypeScript para Front-end
 
-💡 Próximos passos:
-- Fazer a prova de certificação do GitHub Foundations
 
 ##
 
