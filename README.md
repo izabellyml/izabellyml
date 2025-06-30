@@ -22,14 +22,10 @@ Front-End ReactJS | Full-Stack PHP
 PHP | JavaScript | MySQL | PHPUnit | Jest | WordPress | Drupal | ReactJS | TypeScript
 
 🎨 Design & Estilo:
-CSS3 | HTML5 | Styled Components | SASS | BEM 
+CSS3 | HTML5 | Styled Components | SASS | BEM | Tailwind
 
 ✍🏻 Em aprendizado:
-- ReactJS (RocketSeat)
-- TypeScript para Front-end (RocketSeat)
-- Computação em Nuvem com Microsoft Azure (WomakersCode)
-- Processamento de Linguagem Natural (WomakersCode)
-- IA generativa (WomakersCode)
+- Next.js
 - Business English (Santander Open Academy)
 
 
