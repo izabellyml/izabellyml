@@ -13,10 +13,7 @@ Front-End ReactJS | Full-Stack PHP
   />
   <img src="https://github-readme-stats.vercel.app/api?username=izabellyml&show_icons=true" />
 </picture-->
-🔭 Atualmente trabalho como programadora Full-Stack em projetos com PHP
-
-🚀 Estou em processo de migração de carreira para Front-End especializada em ReactJS
-
+🔭 Programadora Full-Stack em projetos com PHP e Front-End especializada em ReactJS
 
 ⚙️ Tecnologias:
 PHP | JavaScript | MySQL | PHPUnit | Jest | WordPress | Drupal | ReactJS | TypeScript
