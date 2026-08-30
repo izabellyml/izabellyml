@@ -1,4 +1,4 @@
-## Olá, sou a Izabelly 🥰
+## Hello, I'm Izabelly 🥰
 
 Front-End ReactJS | Full-Stack PHP
 
@@ -15,20 +15,20 @@ Front-End ReactJS | Full-Stack PHP
 </picture-->
 <!--🔭 Programadora Full-Stack em projetos com PHP e Front-End especializada em ReactJS-->
 
-⚙️ Tecnologias:
-PHP | JavaScript | MySQL | PHPUnit | Jest | WordPress | Drupal | ReactJS | TypeScript
+⚙️ Technologies:
+PHP | JavaScript | MySQL | PHPUnit | Jest | WordPress | Drupal | ReactJS | TypeScript | Next.js
 
-🎨 Design & Estilo:
-CSS3 | HTML5 | Styled Components | SASS | BEM | Tailwind
+🎨 Design & Styles:
+CSS3 | HTML5 | Styled Components | SASS | BEM | Tailwind | Design 
 
-✍🏻 Em aprendizado:
-- Next.js
-- Business English (Santander Open Academy)
+✍🏻 Learning:
+- Germany Language
+- Strategic Thinking and Strategic Mindset (Santander Open Academy)
 
 
 ##
 
-📫 Me encontre em outras redes: [LinkedIn](https://www.linkedin.com/in/izabellylabegalini/)
+📫 Find me on other social networks: [LinkedIn](https://www.linkedin.com/in/izabellylabegalini/)
 
 
 <!--
