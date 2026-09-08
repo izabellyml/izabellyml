@@ -1,9 +1,5 @@
 ## Hello, I'm Izabelly 🥰
 
-Frontend ReactJS | Full-Stack PHP
-
-##
-
 <!--picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=izabellyml&show_icons=true&theme=radical&rank_icon=github"
@@ -16,6 +12,8 @@ Frontend ReactJS | Full-Stack PHP
   <img src="https://github-readme-stats.vercel.app/api?username=izabellyml&show_icons=true" />
 </picture-->
 <!--🔭 Programadora Full-Stack em projetos com PHP e Front-End especializada em ReactJS-->
+Frontend ReactJS | Full-Stack PHP
+
 🔭 I’m currently working on a Accommodation Booking Platform - Fica Aqui
 
 ⚙️ Technologies:
