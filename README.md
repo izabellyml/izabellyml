@@ -1,6 +1,8 @@
 ## Hello, I'm Izabelly 🥰
 
-Frontend ReactJS | FullStack PHP
+Frontend ReactJS | Full-Stack PHP
+
+##
 
 <!--picture>
   <source
