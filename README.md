@@ -1,6 +1,6 @@
 ## Hello, I'm Izabelly 🥰
 
-Front-End ReactJS | Full-Stack PHP
+Frontend ReactJS | FullStack PHP
 
 <!--picture>
   <source
@@ -14,12 +14,14 @@ Front-End ReactJS | Full-Stack PHP
   <img src="https://github-readme-stats.vercel.app/api?username=izabellyml&show_icons=true" />
 </picture-->
 <!--🔭 Programadora Full-Stack em projetos com PHP e Front-End especializada em ReactJS-->
+🔭 I’m currently working on a Accommodation Booking Platform - Fica Aqui
 
 ⚙️ Technologies:
 PHP | JavaScript | MySQL | PHPUnit | Jest | WordPress | Drupal | ReactJS | TypeScript | Next.js
 
 🎨 Design & Styles:
-CSS3 | HTML5 | Styled Components | SASS | BEM | Tailwind | Design 
+CSS3 | HTML5 | Styled Components | SASS | BEM | Tailwind | System Design
+
 
 ✍🏻 Learning:
 - Germany Language
